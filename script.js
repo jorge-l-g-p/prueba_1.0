@@ -3,10 +3,10 @@ function cambiarContenido() {
     const titulo = document.querySelector(".container h1");
 
     const titulos = [
-        "Aprendiendo Git 🚀",
-        "Trabajando con ramas 🌿",
-        "Haciendo commits 💾",
-        "Dominando JavaScript 🔥"
+        "Aprendiendo Git ",
+        "Trabajando con ramas ",
+        "Haciendo commits ",
+        "Dominando JavaScript "
     ];
 
     const colores = ["lightblue", "lightgreen", "lightcoral", "khaki", "plum"];

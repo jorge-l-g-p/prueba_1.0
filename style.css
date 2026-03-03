@@ -3,6 +3,7 @@
     margin: 40px;
     padding: 10px;
     width: 800px;
+    height: 250px;
 } 
 body {
     display: flex;
